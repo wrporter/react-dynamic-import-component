@@ -1,0 +1,4 @@
+/* Avoid layout shift once the global nav loads. */
+.fallback {
+    height: 58px;
+}

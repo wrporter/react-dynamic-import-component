@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 16px;
+    box-shadow: rgba(19, 21, 23, 0.3) 0px 2px 4px 0px
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.nav-list-item {
+    padding-left: 1rem;
+}
